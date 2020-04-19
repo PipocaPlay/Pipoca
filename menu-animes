@@ -1,0 +1,25 @@
+<channels>
+</channels>
+<channel>
+<name>[B][COLOR gold]Animes OnDemand[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/zjvJhWF.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/azforum/addon/master/em-construcao.xml</externallink>
+<fanart>https://i.imgur.com/yUyrViQ.jpg</fanart>
+<info>OnDemand: Filmes Online! E o melhor, de graça!</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]Rede Canais[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/iFqdyRv.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/azforum/addon/master/em-construcao.xml</externallink>
+<fanart>https://i.imgur.com/xpExuGf.jpg</fanart>
+<info>RedeCanais: Animes, Séries, Filmes e Desenhos Online! E o melhor, de graça!</info>
+</channel>
+
+<channel>
+<name>[B][COLOR gold]Google Drive[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/TIcfe1c.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/azforum/addon/master/em-construcao.xml</externallink>
+<fanart>https://i.imgur.com/IxTmC6b.jpg</fanart>
+<info>Google Driver: Filmes Online! E o melhor, de graça!</info>
+</channel>
