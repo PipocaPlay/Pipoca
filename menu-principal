@@ -41,6 +41,16 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <channel>
+<name>[COLOR gold][B]TORRENT[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/oykbaN4.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/PipocaPlay/Pipoca/master/menu-torrent</externallink>
+<fanart>https://i.imgur.com/5HxjZBx.jpg</fanart>
+<info>Informações...</info>
+</channel>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channel>
 <name>[COLOR gold][B]YOUTUBE[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/bNFtSdc.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/azforum/addon/master/youtube/shows.xml</externallink>
